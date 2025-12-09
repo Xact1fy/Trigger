@@ -28,7 +28,7 @@ Follow these steps to get **Trigger** ready to use on your system.
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/Xact1fy/Trigger.git](https://github.com/Xact1fy/Trigger.git)
-    cd your-repo-name
+    cd Trigger
     ```
 2.  **Ensure the script is executable (optional, depending on your system):**
     ```bash
